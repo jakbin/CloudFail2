@@ -58,8 +58,11 @@ To run a scan against a target using Tor:
 * win_inet_pton
 * dnspython
 
+## Tutorial
+[Watch Here](https://youtu.be/qNQ0VZ1rwrM)
+
 ## Donate BTC
-> 13eiCHxmAEaRZDXcgKJVtVnCKK5mTR1u1F
+> bc1qx2p08qtsxxdzj0yfr2cm7yy3g5ydv3mt2753le
 
 Buy me a beer or coffee... or both! 
 If you donate send me a message and I will add you to the credits!
